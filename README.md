@@ -1,2 +1,3 @@
 # Bingo
-Bingo es una aplicación colaborativa multicast que sirve para jugar al bingo. Únicamente se va a cantar bingo no líneas. Exitirá un servidor que irá sacando números y varios cliente que serán los que tendrán los cartones.
+Aplicación colaborativa multicast que simula el juego del bingo.
+Primero se ejecutarán los clientes(jugadores) y posteriormente el servidor(el que saca los números).
